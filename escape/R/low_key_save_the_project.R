@@ -1,3 +1,5 @@
+
+library(RSQLite)
 activity <- read.csv("activity.csv")
 
 head(activity)
@@ -10,14 +12,12 @@ names <- data.frame(names = actNames)
 db <- dbConnect(SQLite(), "escapeDB.sqlite")
 dbIsValid(db)
 dbListTables(db)
-dbWriteTable(db, "activity_col_names", names)
+dbWriteTable(db, "activity_col_names", names, overwrite = TRUE)
 
-food <- read.csv("food.csv")
+food <- read.csv("food_dubai.csv")
+food <- food[-1]
 foodNames <- colnames(food)
-dbWriteTable(db, "food_col_names", names)
-
-
-
-
-
-
+foodNames <- data.frame(names = foodNames)
+dbWriteTable(db, "food_col_names", foodNames, overwrite = TRUE)
+check <- dbReadTable(db, "food_col_names")
+dbDisconnect(db)
