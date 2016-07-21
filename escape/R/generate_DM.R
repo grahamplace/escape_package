@@ -3,7 +3,7 @@
 #' @param activity Data frame returned from activity scraping function
 #' @param food Data frame returned from food scraping function
 #'
-create_dist_matrix <- function(activity, food){
+generate_DM <- function(activity, food){
 
   #create unified list of ids in database
   ids <- c(activity$eventid, food$eventid)
