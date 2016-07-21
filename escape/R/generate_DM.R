@@ -41,6 +41,7 @@ generate_DM <- function(activity, food){
 
   #finally, name columns with ids for lookup
   colnames(dm) <- ids
+  dm <- rbind(ids, dm)
 
   #return final dataframe
   return (dm)
@@ -78,6 +79,4 @@ dist <- function(id1, id2) {
 
   return(acos(sin(lat1) * sin(lat2) + cos(lat1) * cos(lat2) * cos(long1 - long2)) * 6371)
 }
-
-
 

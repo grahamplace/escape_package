@@ -1,0 +1,151 @@
+"","eventname","subtype","cuisine","price","openWeek","closeWeek","openSat","closeSat","openSun","closeSun","eventlength","popularity","latitude","address","longitude"
+"1","Jarryds","breakfast","Cafe",2,"7",NA,"7",NA,"7",NA,1.5,3,NA,"90 Regent Road, Sea Point, Cape Town",NA
+"2","Truth Coffee","breakfast","Cafe",1,"7.5","18","7.5","18","7.5","18",1,3,NA,"36 Buitenkant Street, CBD, Cape Town",NA
+"3","The Towers Restaurant - African Pride Crystal Towers","breakfast","Contemporary",3,"6.5","22","6.5","22","6.5","22",2,1,NA,"African Pride Crystal Towers, Century Boulavard, Century City, Cape Town",NA
+"4","Jason","breakfast","Cafe",1,"7",NA,"7",NA,"7",NA,1,3,NA,"185 Bree Street, CBD, Cape Town",NA
+"5","NOMAD Bistro Fusion","breakfast","International",2,"8","16","8","16","8","16",1.5,1,NA,"33 Waterkant Street, CBD, Cape Town",NA
+"6","Starlings Cafe","breakfast","Cafe",2,"7","17","7","17","7","17",1.5,3,NA,"94 Belvedere Road, Claremont, Cape Town",NA
+"7","Bacon on Bree","breakfast","Cafe",1,"7","16","7","16","7","16",1,2,NA,"217 Bree Street, CBD, Cape Town",NA
+"8","Schoon De Companje","breakfast","European",2,"7","22","7","22","7","22",1.5,2,NA,"Oude Bank Building, 7 Church Street, Stellenbosch, Cape Town",NA
+"9","The Larder","breakfast","Cafe",1,"7","17","7","17","7","17",1,2,NA,"Unit 5 Grove Building, 8 Grove Avenue, Claremont, Cape Town",NA
+"10","PRIMI Piatti","breakfast","Italian",3,"9","22","9","22","9","22",2,3,NA,"First Level, Victoria Wharf, V & A Waterfront, Cape Town",NA
+"11","Mynt Cafe","breakfast","Cafe",3,"8","23","8","23","8","23",2,1,NA,"31 Victoria Road, Camps Bay, Cape Town",NA
+"12","Honest Chocolate Cafe","breakfast","Cafe",1,"9","17","9","17","9","17",1,3,NA,"64 A Wale Street, CBD, Cape Town",NA
+"13","Warwick Wine Estate","breakfast","South African",3,"9","17","9","17","9","17",2,1,NA,"Warwick Wine Estate, R44, Stellenbosch, Cape Town",NA
+"14","Company's Garden","breakfast","Cafe",1,"7","18","7","18","7","18",1,2,NA,"19 Queen Victoria Street, CBD, Cape Town",NA
+"15","Greens","breakfast","Cafe",3,"8","17","8","17","8","17",2,1,NA,"Plattekloof Village, Corner Plattekloof Road and Baronetcy Road, Plattekloof, Cape Town",NA
+"16","Four & Twenty","breakfast","Cafe",2,"8","17","8","17","8","17",1.5,3,NA,"23 Wolfe Street, Chelsea Village, Wynberg, Cape Town",NA
+"17","Honeybun","breakfast","Cafe",1,"7","17","7","17","7","17",1,1,NA,"107 Lower Main Road, Observatory, Cape Town",NA
+"18","Haas Collective","breakfast","Cafe",1,"7","17","7","17","7","17",1,2,NA,"19 Buitenkant Street, CBD, Cape Town",NA
+"19","Bootlegger Coffee Company","breakfast","Cafe",1,"6.5","22","6.5","22","6.5","22",1,2,NA,"39 Regent Road, Sea Point, Cape Town",NA
+"20","tashas","breakfast","Cafe",3,"7.5","21","7.5","21","7.5","21",2,3,NA,"Ground Level, Victoria Wharf, V & A Waterfront, Cape Town",NA
+"21","Kleinskys Delicatessen","breakfast","Deli",1,"8","17","8","17","8","17",1,2,NA,"95 Regent Road, Sea Point, Cape Town",NA
+"22","Lekke Neh Restaurant","breakfast","Burger",3,"9","17","9","17","9","17",2,1,NA,"Weltevreden Wine Estate, Cloetesville Road, Welgevonden, Stellenbosch, Cape Town",NA
+"23","Durbanville Hills Restaurant","breakfast","Grill",3,"8.5","15","8.5","15","8.5","15",2,1,NA,"Durbanville Hills Wine Farm, Tyger Valley Road, Durbanville, Cape Town",NA
+"24","ON19 Restaurant - The Westin Cape Town","breakfast","African",3,"6.5","10","6.5","10","6.5","10",2,1,NA,"The Westin, Convention Square, Lower Long Street, Foreshore, Cape Town",NA
+"25","Pastis","breakfast","French",3,"8.5","22","8.5","22","8.5","22",2,1,NA,"High Constantia Center, Constantia Main Road, Constantia, Cape Town",NA
+"26","Franky's Diner","breakfast","American",1,NA,NA,"NULL",NA,"NULL",NA,1,2,NA,"303 Main Road, Sea Point, Cape Town",NA
+"27","Mondiall","breakfast","Seafood",3,"9","11","9","11","9","11",2,3,NA,"Alfred Mall, V & A Waterfront, Cape Town",NA
+"28","Yours Truly","breakfast","Cafe",1,"6","23","6","23","6","23",1,2,NA,"73 Kloof Street, Gardens, Cape Town",NA
+"29","Clarke's Bar & Dining Room","breakfast","European",2,"7","17","7","17","7","17",1.5,3,NA,"133 Bree Street, CBD, Cape Town 8001",NA
+"30","Hillcrest Restaurant","breakfast","Mediterranean",3,"9","17","9","17","9","17",2,1,NA,"Hillcrest Wine Estate, Tyger Valley Road, Durbanville, Cape Town",NA
+"31","Jarryds","breakfast","Cafe",2,"7",NA,"7",NA,"7",NA,1.5,3,NA,"90 Regent Road, Sea Point, Cape Town",NA
+"32","Truth Coffee","breakfast","Cafe",1,"7.5","18","7.5","18","7.5","18",1,3,NA,"36 Buitenkant Street, CBD, Cape Town",NA
+"33","The Towers Restaurant - African Pride Crystal Towers","breakfast","Contemporary",3,"6.5","22","6.5","22","6.5","22",2,1,NA,"African Pride Crystal Towers, Century Boulavard, Century City, Cape Town",NA
+"34","Jason","breakfast","Cafe",1,"7",NA,"7",NA,"7",NA,1,3,NA,"185 Bree Street, CBD, Cape Town",NA
+"35","NOMAD Bistro Fusion","breakfast","International",2,"8","16","8","16","8","16",1.5,1,NA,"33 Waterkant Street, CBD, Cape Town",NA
+"36","Starlings Cafe","breakfast","Cafe",2,"7","17","7","17","7","17",1.5,3,NA,"94 Belvedere Road, Claremont, Cape Town",NA
+"37","Bacon on Bree","breakfast","Cafe",1,"7","16","7","16","7","16",1,2,NA,"217 Bree Street, CBD, Cape Town",NA
+"38","Schoon De Companje","breakfast","European",2,"7","22","7","22","7","22",1.5,2,NA,"Oude Bank Building, 7 Church Street, Stellenbosch, Cape Town",NA
+"39","The Larder","breakfast","Cafe",1,"7","17","7","17","7","17",1,2,NA,"Unit 5 Grove Building, 8 Grove Avenue, Claremont, Cape Town",NA
+"40","PRIMI Piatti","breakfast","Italian",3,"9","22","9","22","9","22",2,3,NA,"First Level, Victoria Wharf, V & A Waterfront, Cape Town",NA
+"41","Mynt Cafe","breakfast","Cafe",3,"8","23","8","23","8","23",2,1,NA,"31 Victoria Road, Camps Bay, Cape Town",NA
+"42","Honest Chocolate Cafe","breakfast","Cafe",1,"9","17","9","17","9","17",1,3,NA,"64 A Wale Street, CBD, Cape Town",NA
+"43","Warwick Wine Estate","breakfast","South African",3,"9","17","9","17","9","17",2,1,NA,"Warwick Wine Estate, R44, Stellenbosch, Cape Town",NA
+"44","Company's Garden","breakfast","Cafe",1,"7","18","7","18","7","18",1,2,NA,"19 Queen Victoria Street, CBD, Cape Town",NA
+"45","Greens","breakfast","Cafe",3,"8","17","8","17","8","17",2,1,NA,"Plattekloof Village, Corner Plattekloof Road and Baronetcy Road, Plattekloof, Cape Town",NA
+"46","Four & Twenty","breakfast","Cafe",2,"8","17","8","17","8","17",1.5,3,NA,"23 Wolfe Street, Chelsea Village, Wynberg, Cape Town",NA
+"47","Honeybun","breakfast","Cafe",1,"7","17","7","17","7","17",1,1,NA,"107 Lower Main Road, Observatory, Cape Town",NA
+"48","Haas Collective","breakfast","Cafe",1,"7","17","7","17","7","17",1,2,NA,"19 Buitenkant Street, CBD, Cape Town",NA
+"49","Bootlegger Coffee Company","breakfast","Cafe",1,"6.5","22","6.5","22","6.5","22",1,2,NA,"39 Regent Road, Sea Point, Cape Town",NA
+"50","tashas","breakfast","Cafe",3,"7.5","21","7.5","21","7.5","21",2,3,NA,"Ground Level, Victoria Wharf, V & A Waterfront, Cape Town",NA
+"51","NOMAD Bistro Fusion","lunch","International",2,"8","16","8","16","8","16",1.5,1,NA,"33 Waterkant Street, CBD, Cape Town",NA
+"52","Jarryds","lunch","Cafe",2,"7",NA,"7",NA,"7",NA,1.5,2,NA,"90 Regent Road, Sea Point, Cape Town",NA
+"53","The Village Idiot","lunch","South African",2,"15","2","15","2","15","2",1.5,2,NA,"32 Loop Street, CBD, Cape Town",NA
+"54","Bacon on Bree","lunch","Cafe",1,"7","16","7","16","7","16",1,2,NA,"217 Bree Street, CBD, Cape Town",NA
+"55","Kloof Street House","lunch","Mediterranean",3,"17","22","17","22","17","22",2,3,NA,"30 Kloof Street, Gardens, Cape Town",NA
+"56","The Larder","lunch","Cafe",1,"7","17","7","17","7","17",1,1,NA,"Unit 5 Grove Building, 8 Grove Avenue, Claremont, Cape Town",NA
+"57","Clarke's Bar & Dining Room","lunch","European",2,"7","17","7","17","7","17",1.5,3,NA,"133 Bree Street, CBD, Cape Town 8001",NA
+"58","Bocca","lunch","Pizza",2,"12","22","12","22","12","22",1.5,2,NA,"Corner Bree Street and Wale Street, CBD, Cape Town",NA
+"59","Company's Garden","lunch","Cafe",1,"7","18","7","18","7","18",1,1,NA,"19 Queen Victoria Street, CBD, Cape Town",NA
+"60","Jason","lunch","Cafe",1,"7",NA,"7",NA,"7",NA,1,3,NA,"185 Bree Street, CBD, Cape Town",NA
+"61","Royale Eatery","lunch","Burger",3,"12","23","12","23","12","23",2,3,NA,"273 Long Street, CBD, Cape Town",NA
+"62","The Potluck Club","lunch","European",3,"24",NA,"24",NA,"24",NA,2,3,NA,"The Old Biscuit Mill, 375 Albert Road, Woodstock, Cape Town",NA
+"63","Truth Coffee","lunch","Cafe",1,"7.5","18","7.5","18","7.5","18",1,3,NA,"36 Buitenkant Street, CBD, Cape Town",NA
+"64","Villa 47","lunch","International",3,"6.5","22","6.5","22","6.5","22",2,1,NA,"47 Bree Street, CBD, Cape Town",NA
+"65","Jerry's Burger Bar","lunch","Burger",2,"12","2","12","2","12","2",1.5,3,NA,"5 Park Road, Kloof Street, Gardens, Cape Town",NA
+"66","IYO Burgers (Inside & You're Out)","lunch","Burger",3,"17","22","17","22","17","22",2,3,NA,"103 Bree Street, CBD, Cape Town",NA
+"67","Hemelhuijs","lunch","Continental",1,"9","16","9","16","9","16",1,1,NA,"71 Waterkant Street, De Waterkant, Cape Town",NA
+"68","Eastern Food Bazaar","lunch","Asian",1,"9","22","9","22","9","22",1,3,NA,"96 Long Market Street, CBD, Cape Town",NA
+"69","Yours Truly","lunch","Cafe",1,"6","23","6","23","6","23",1,2,NA,"73 Kloof Street, Gardens, Cape Town",NA
+"70","Warwick Wine Estate","lunch","South African",3,"9","17","9","17","9","17",2,1,NA,"Warwick Wine Estate, R44, Stellenbosch, Cape Town",NA
+"71","Lekke Neh Restaurant","lunch","Burger",3,"9","17","9","17","9","17",2,1,NA,"Weltevreden Wine Estate, Cloetesville Road, Welgevonden, Stellenbosch, Cape Town",NA
+"72","South China Dim Sum Bar","lunch","Asian",1,"24","15","24","15","24","15",1,1,NA,"289 Long Street, CBD, Cape Town",NA
+"73","Constantia Glen","lunch","European",3,"10","17","10","17","10","17",2,1,NA,"Constantia Glen Wine Farm, Constantia Main Road, Constantia, Cape Town",NA
+"74","El Burro","lunch","Mexican",3,"12","23","12","23","12","23",2,3,NA,"81 Main Road, Green Point, Cape Town",NA
+"75","Tokara Restaurant","lunch","African",3,"12","15","12","15","12","15",2,1,NA,"Tokara Wine Estate, Helshoogte Road, Stellenbosch, Cape Town",NA
+"76","Loco Lounge","lunch","Mediterranean",2,NA,NA,"NULL",NA,"NULL",NA,1.5,2,NA,"Harfield Village, Corner 2nd Avenue and Surrey Road, Claremont, Cape Town",NA
+"77","NV 80","lunch","Grill",3,"12","15","12","15","12","15",2,2,NA,"The Point, 76 Regent Road, Sea Point, Cape Town",NA
+"78","Starlings Cafe","lunch","Cafe",2,"7","17","7","17","7","17",1.5,3,NA,"94 Belvedere Road, Claremont, Cape Town",NA
+"79","The House Of Machines","lunch","Contemporary",2,"7","24","7","24","7","24",1.5,1,NA,"84 Shortmarket Street, CBD, Cape Town",NA
+"80","Honest Chocolate Cafe","lunch","Cafe",1,"9","17","9","17","9","17",1,2,NA,"64 A Wale Street, CBD, Cape Town",NA
+"81","NOMAD Bistro Fusion","lunch","International",2,"8","16","8","16","8","16",1.5,1,NA,"33 Waterkant Street, CBD, Cape Town",NA
+"82","Jarryds","lunch","Cafe",2,"7",NA,"7",NA,"7",NA,1.5,2,NA,"90 Regent Road, Sea Point, Cape Town",NA
+"83","The Village Idiot","lunch","South African",2,"15","2","15","2","15","2",1.5,2,NA,"32 Loop Street, CBD, Cape Town",NA
+"84","Bacon on Bree","lunch","Cafe",1,"7","16","7","16","7","16",1,2,NA,"217 Bree Street, CBD, Cape Town",NA
+"85","Kloof Street House","lunch","Mediterranean",3,"17","22","17","22","17","22",2,3,NA,"30 Kloof Street, Gardens, Cape Town",NA
+"86","The Larder","lunch","Cafe",1,"7","17","7","17","7","17",1,1,NA,"Unit 5 Grove Building, 8 Grove Avenue, Claremont, Cape Town",NA
+"87","Clarke's Bar & Dining Room","lunch","European",2,"7","17","7","17","7","17",1.5,3,NA,"133 Bree Street, CBD, Cape Town 8001",NA
+"88","Bocca","lunch","Pizza",2,"12","22","12","22","12","22",1.5,2,NA,"Corner Bree Street and Wale Street, CBD, Cape Town",NA
+"89","Company's Garden","lunch","Cafe",1,"7","18","7","18","7","18",1,1,NA,"19 Queen Victoria Street, CBD, Cape Town",NA
+"90","Jason","lunch","Cafe",1,"7",NA,"7",NA,"7",NA,1,3,NA,"185 Bree Street, CBD, Cape Town",NA
+"91","Royale Eatery","lunch","Burger",3,"12","23","12","23","12","23",2,3,NA,"273 Long Street, CBD, Cape Town",NA
+"92","The Potluck Club","lunch","European",3,"24",NA,"24",NA,"24",NA,2,3,NA,"The Old Biscuit Mill, 375 Albert Road, Woodstock, Cape Town",NA
+"93","Truth Coffee","lunch","Cafe",1,"7.5","18","7.5","18","7.5","18",1,3,NA,"36 Buitenkant Street, CBD, Cape Town",NA
+"94","Villa 47","lunch","International",3,"6.5","22","6.5","22","6.5","22",2,1,NA,"47 Bree Street, CBD, Cape Town",NA
+"95","Jerry's Burger Bar","lunch","Burger",2,"12","2","12","2","12","2",1.5,3,NA,"5 Park Road, Kloof Street, Gardens, Cape Town",NA
+"96","IYO Burgers (Inside & You're Out)","lunch","Burger",3,"17","22","17","22","17","22",2,3,NA,"103 Bree Street, CBD, Cape Town",NA
+"97","Hemelhuijs","lunch","Continental",1,"9","16","9","16","9","16",1,1,NA,"71 Waterkant Street, De Waterkant, Cape Town",NA
+"98","Eastern Food Bazaar","lunch","Asian",1,"9","22","9","22","9","22",1,3,NA,"96 Long Market Street, CBD, Cape Town",NA
+"99","Yours Truly","lunch","Cafe",1,"6","23","6","23","6","23",1,2,NA,"73 Kloof Street, Gardens, Cape Town",NA
+"100","Warwick Wine Estate","lunch","South African",3,"9","17","9","17","9","17",2,1,NA,"Warwick Wine Estate, R44, Stellenbosch, Cape Town",NA
+"101","The Village Idiot","dinner","South African",1,"15","2","15","2","15","2",1,2,NA,"32 Loop Street, CBD, Cape Town",NA
+"102","Kloof Street House","dinner","Mediterranean",2,"17","22","17","22","17","22",1.5,3,NA,"30 Kloof Street, Gardens, Cape Town",NA
+"103","Fork","dinner","Mediterranean",1,"12","23","12","23","12","23",1,1,NA,"84 Long Street, CBD, Cape Town",NA
+"104","Jerry's Burger Bar","dinner","Burger",1,"12","2","12","2","12","2",1,2,NA,"5 Park Road, Kloof Street, Gardens, Cape Town",NA
+"105","The Potluck Club","dinner","European",3,"24",NA,"24",NA,"24",NA,2,3,NA,"The Old Biscuit Mill, 375 Albert Road, Woodstock, Cape Town",NA
+"106","NV 80","dinner","Grill",3,"12","15","12","15","12","15",2,1,NA,"The Point, 76 Regent Road, Sea Point, Cape Town",NA
+"107","Villa 47","dinner","International",2,"6.5","22","6.5","22","6.5","22",1.5,1,NA,"47 Bree Street, CBD, Cape Town",NA
+"108","Bocca","dinner","Pizza",2,"12","22","12","22","12","22",1.5,1,NA,"Corner Bree Street and Wale Street, CBD, Cape Town",NA
+"109","Royale Eatery","dinner","Burger",2,"12","23","12","23","12","23",1.5,3,NA,"273 Long Street, CBD, Cape Town",NA
+"110","Bombay Bicycle Club","dinner","Mediterranean",3,"16","24","16","24","16","24",2,2,NA,"158 Kloof Street, Gardens, Cape Town",NA
+"111","Lefty's","dinner","Grill",1,"16","23","16","23","16","23",1,2,NA,"105 Harrington Street, CBD, Cape Town",NA
+"112","Clarke's Bar & Dining Room","dinner","European",1,"7","17","7","17","7","17",1,2,NA,"133 Bree Street, CBD, Cape Town 8001",NA
+"113","La Boheme","dinner","South African",2,"12","22","12","22","12","22",1.5,3,NA,"341 Main Road, Sea Point, Cape Town",NA
+"114","The Dog's Bollocks at YARD","dinner","Burger",1,"17","22","17","22","17","22",1,3,NA,"6 Roodehek Street, Gardens, Cape Town",NA
+"115","The Test Kitchen","dinner","Continental",3,"24","14","24","14","24","14",2,2,NA,"The Old Biscuit Mill, 375 Albert Road, Woodstock, Cape Town",NA
+"116","Eastern Food Bazaar","dinner","Asian",1,"9","22","9","22","9","22",1,3,NA,"96 Long Market Street, CBD, Cape Town",NA
+"117","Charango Grill and Bar","dinner","Latin American",3,"6","23","6","23","6","23",2,1,NA,"114 Bree Street, CBD, Cape Town",NA
+"118","El Burro","dinner","Mexican",2,"12","23","12","23","12","23",1.5,3,NA,"81 Main Road, Green Point, Cape Town",NA
+"119","Mondiall","dinner","Seafood",3,"9","11","9","11","9","11",2,2,NA,"Alfred Mall, V & A Waterfront, Cape Town",NA
+"120","Willoughby & Co.","dinner","Seafood",3,"12","22","12","22","12","22",2,3,NA,"Ground Level, Victoria Wharf, V & A Waterfront, Cape Town",NA
+"121","La Parada","dinner","Spanish",2,"12","2","12","2","12","2",1.5,2,NA,"107 Bree Street, CBD, Cape Town",NA
+"122","Tiger's Milk Restaurant & Bar","dinner","Steakhouse",2,"16","2","16","2","16","2",1.5,1,NA,"44 Long Street, CBD, Cape Town",NA
+"123","Sotano","dinner","European",2,"7","23","7","23","7","23",1.5,1,NA,"121 Beach Road, Mouille Point, Green Point, Cape Town 8005",NA
+"124","Il Leone","dinner","Italian",2,"12","15","12","15","12","15",1.5,1,NA,"Corner Cobern Street and Prestwich Street, Green Point, Cape Town",NA
+"125","The Black Sheep Restaurant","dinner","European",3,"18","22","18","22","18","22",2,1,NA,"104 Kloof Street, Gardens, Cape Town",NA
+"126","South China Dim Sum Bar","dinner","Asian",1,"24","15","24","15","24","15",1,1,NA,"289 Long Street, CBD, Cape Town",NA
+"127","Ocean Basket","dinner","Seafood",3,"11","22","11","22","11","22",2,1,NA,"First Level, Victoria Wharf, V & A Waterfront, Cape Town",NA
+"128","Pancho's","dinner","Mexican",1,NA,"12",NA,"12",NA,"12",1,3,NA,"127 Lower Main Road, Observatory, Cape Town",NA
+"129","Homespun","dinner","South African",3,"18","23","18","23","18","23",2,1,NA,"Porterfield Road, Table View, Cape Town",NA
+"130","Gibson's Gourmet Burgers & Ribs","dinner","Burger",1,"11","22","11","22","11","22",1,3,NA,"Shop 157, Lower Level, Victoria Wharf, V & A Waterfront, Cape Town",NA
+"131","The Village Idiot","dinner","South African",1,"15","2","15","2","15","2",1,2,NA,"32 Loop Street, CBD, Cape Town",NA
+"132","Kloof Street House","dinner","Mediterranean",2,"17","22","17","22","17","22",1.5,3,NA,"30 Kloof Street, Gardens, Cape Town",NA
+"133","Fork","dinner","Mediterranean",1,"12","23","12","23","12","23",1,1,NA,"84 Long Street, CBD, Cape Town",NA
+"134","Jerry's Burger Bar","dinner","Burger",1,"12","2","12","2","12","2",1,2,NA,"5 Park Road, Kloof Street, Gardens, Cape Town",NA
+"135","The Potluck Club","dinner","European",3,"24",NA,"24",NA,"24",NA,2,3,NA,"The Old Biscuit Mill, 375 Albert Road, Woodstock, Cape Town",NA
+"136","NV 80","dinner","Grill",3,"12","15","12","15","12","15",2,1,NA,"The Point, 76 Regent Road, Sea Point, Cape Town",NA
+"137","Villa 47","dinner","International",2,"6.5","22","6.5","22","6.5","22",1.5,1,NA,"47 Bree Street, CBD, Cape Town",NA
+"138","Bocca","dinner","Pizza",2,"12","22","12","22","12","22",1.5,1,NA,"Corner Bree Street and Wale Street, CBD, Cape Town",NA
+"139","Royale Eatery","dinner","Burger",2,"12","23","12","23","12","23",1.5,3,NA,"273 Long Street, CBD, Cape Town",NA
+"140","Bombay Bicycle Club","dinner","Mediterranean",3,"16","24","16","24","16","24",2,2,NA,"158 Kloof Street, Gardens, Cape Town",NA
+"141","Lefty's","dinner","Grill",1,"16","23","16","23","16","23",1,2,NA,"105 Harrington Street, CBD, Cape Town",NA
+"142","Clarke's Bar & Dining Room","dinner","European",1,"7","17","7","17","7","17",1,2,NA,"133 Bree Street, CBD, Cape Town 8001",NA
+"143","La Boheme","dinner","South African",2,"12","22","12","22","12","22",1.5,3,NA,"341 Main Road, Sea Point, Cape Town",NA
+"144","The Dog's Bollocks at YARD","dinner","Burger",1,"17","22","17","22","17","22",1,3,NA,"6 Roodehek Street, Gardens, Cape Town",NA
+"145","The Test Kitchen","dinner","Continental",3,"24","14","24","14","24","14",2,2,NA,"The Old Biscuit Mill, 375 Albert Road, Woodstock, Cape Town",NA
+"146","Eastern Food Bazaar","dinner","Asian",1,"9","22","9","22","9","22",1,3,NA,"96 Long Market Street, CBD, Cape Town",NA
+"147","Charango Grill and Bar","dinner","Latin American",3,"6","23","6","23","6","23",2,1,NA,"114 Bree Street, CBD, Cape Town",NA
+"148","El Burro","dinner","Mexican",2,"12","23","12","23","12","23",1.5,3,NA,"81 Main Road, Green Point, Cape Town",NA
+"149","Mondiall","dinner","Seafood",3,"9","11","9","11","9","11",2,2,NA,"Alfred Mall, V & A Waterfront, Cape Town",NA
+"150","Willoughby & Co.","dinner","Seafood",3,"12","22","12","22","12","22",2,3,NA,"Ground Level, Victoria Wharf, V & A Waterfront, Cape Town",NA

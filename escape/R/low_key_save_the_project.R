@@ -12,5 +12,12 @@ dbIsValid(db)
 dbListTables(db)
 dbWriteTable(db, "activity_col_names", names)
 
+food <- read.csv("food.csv")
+foodNames <- colnames(food)
+dbWriteTable(db, "food_col_names", names)
 
-foodNames <- food
+
+
+
+
+
