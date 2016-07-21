@@ -4,12 +4,15 @@
 #' @param city A string representing the city for which you want activities.
 #' @return A dataframe with all of the activies for the input city.
 scrape_activity <- function(city) {
-
   suppressPackageStartupMessages(library(rvest))
+  suppressPackageStartupMessages(library(RCurl))
+  suppressPackageStartupMessages(library(dplyr))
+  suppressPackageStartupMessages(library(XML))
   suppressPackageStartupMessages(library(stringr))
-  suppressPackageStartupMessages(library(jsonlite))
+  suppressPackageStartupMessages(library(outliers))
+  suppressPackageStartupMessages(library(RJSONIO))
+  suppressPackageStartupMessages(library(plyr))
   suppressPackageStartupMessages(library(ggmap))
-  suppressPackageStartupMessages(library(RSelenium))
 
   #open browser
   checkForServer()
@@ -27,7 +30,7 @@ scrape_activity <- function(city) {
   button$clickElement()
 
 
-  #generate url template (insert activity tag between two parts)
+  #generate url template
   page <- read_html(browser$getCurrentUrl()[[1]])
   url_ending <- page %>% html_nodes("li.attractions.twoLines > a") %>% html_attr("href")
   url_thingstodo <- paste("www.tripadvisor.co.za", url_ending, sep = "")
@@ -89,6 +92,7 @@ scrape_activity <- function(city) {
   return(activity)
 
 }
+
 
 get_data <- function(url) {
   #read page
@@ -167,6 +171,8 @@ get_data <- function(url) {
 }
 
 
+
+
 get_description <- function(event) {
 
   #transform search query to text+text format (replace spaces with +)
@@ -176,14 +182,15 @@ get_description <- function(event) {
   #search_url <- sprintf("https://www.google.co.za/search?q=%s&oq=%s&aqs=chrome", event, event)
   #google_search <- read_html(search_url)get_
 
-  apikey <- 'key'
+  apikey <- "secret"
 
   url <- paste0("https://kgsearch.googleapis.com/v1/entities:search?query=",event,"&key=", apikey, "&limit=1&indent=True")
 
   #error check URL
   if (verify_URL(url)) {
     json <-  fromJSON(url)
-    description <- json$itemListElement$result$detailedDescription$articleBody
+    #description <- json$itemListElement$result$detailedDescription$articleBody
+    description <- json$itemListElement[[1]]$result$detailedDescription[1]
 
     if(is.null(description)) {
       description <- "There is no description available."
@@ -200,10 +207,12 @@ get_description <- function(event) {
   return(description)
 }
 
-
+#' @param url URL for a search query of Google's Knowledge graph API.
+#' @return Returns TRUE if the url was valid, FALSE if there doesn't exist a knowledge graph for that query.
 verify_URL <- function(url) {
   tryCatch({
     fromJSON(url)
+    description <- json$itemListElement[[1]]$result$detailedDescription[1]
     return(TRUE)
   }, error = function(e) {
     #message(paste("Warning: There is no description available."))
@@ -211,6 +220,12 @@ verify_URL <- function(url) {
   }, finally = {}
   )
 }
+
+
+
+
+
+
 
 
 
